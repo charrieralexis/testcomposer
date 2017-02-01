@@ -1,0 +1,12 @@
+{
+    "name": "charrieralexis/testcomposer",
+    "description": "test pour composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Charrier",
+            "email": "charrieralexis0@gmail.com"
+        }
+    ],
+    "require": {}
+}
