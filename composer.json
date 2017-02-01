@@ -3,13 +3,16 @@
     "description": "test pour composer",
     "license": "MIT",
     "version": "1.0.0" ,
+    "minimum-stability": "stable",
     "prefer-stable": true,
-    "minimum-stability": "master",
     "authors": [
         {
             "name": "Charrier",
             "email": "charrieralexis0@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=5.3.0",
+        "psr/log": "~1.0"
+    }
 }
