@@ -4,7 +4,7 @@
     "license": "MIT",
     "version": "1.0.0" ,
     "prefer-stable": true,
-    "minimum-stability": "stable",
+    "minimum-stability": "master",
     "authors": [
         {
             "name": "Charrier",
