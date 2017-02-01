@@ -2,6 +2,7 @@
     "name": "charrieralexis/testcomposer",
     "description": "test pour composer",
     "license": "MIT",
+    "version": "1.0.0" ,
     "authors": [
         {
             "name": "Charrier",
