@@ -3,6 +3,8 @@
     "description": "test pour composer",
     "license": "MIT",
     "version": "1.0.0" ,
+    "prefer-stable": true,
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Charrier",
